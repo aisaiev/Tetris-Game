@@ -1,0 +1,6 @@
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\anton\Documents\C#\Inteducation\aisaiev\Tetris\Tetris\obj\Debug\Tetris.pdb
